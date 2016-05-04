@@ -1,5 +1,10 @@
 # OPL-Homework-Average
-Script that averages the Bottlenose homework grades for UMass Lowell's OPL class.
+You'd think that there would be an average of our grades displayed on Bottlenose... WRONG!    
+This script simply scrapes the page and adds up your grades to find the total average.    
+The average is based on total points per assignment so some assignments worth 200 points    
+are weighed more than those out of 100.   
+![Bottlenose Preview]
+(http://i.imgur.com/DRoAOpM.png?1)
 
 # How to use:
 
