@@ -1,6 +1,7 @@
 # OPL-Homework-Average
-You'd think that there would be an average of our grades displayed on Bottlenose... WRONG!    
-This script simply scrapes the page and adds up your grades to find the total average.    
+Bottlenose does this weird thing where it thinks that your homework average should include  
+exam grades. With this in mind, exams are only out of 30 points so they aren't weighted properly.  
+This script simply scrapes the page and adds up your homework grades to find the total average.    
 The average is based on total points per assignment so some assignments worth 200 points    
 are weighed more than those out of 100.   
 ![Bottlenose Preview]
