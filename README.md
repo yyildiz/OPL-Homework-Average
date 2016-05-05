@@ -9,10 +9,21 @@ are weighed more than those out of 100.
 # How to use:
 
 ## 1. Make sure that you have the following libraries installed on your Computer:
-### 1. BeautifulSoup
-### 2. Selenium
+### 1. Python - [Instructions](https://www.python.org/downloads/)
+### 2. BeautifulSoup - [Instructions](https://www.crummy.com/software/BeautifulSoup/bs4/doc/#installing-beautiful-soup)
+### 3. Selenium - [Instructions](http://selenium-python.readthedocs.io/installation.html)
 
-## 2. When prompted enter your authentication URL for Bottlenose.
+## 2. Run the program using the following command:
+If you're on python3 use 
+```
+python2 get_opl_average.py
+```
+or just use the following for python2
+```
+python get_opl_average.py
+```
+
+## 3. When prompted enter your authentication URL for Bottlenose.
 ### It should be in the following format:
 ```url 
 https://grader.cs.uml.edu/main/auth?email=FIRSTNAME_LASTNAME%40student.uml.edu&key=YOUR_USER_SPECIFIC_KEY
