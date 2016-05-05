@@ -16,11 +16,11 @@ are weighed more than those out of 100.
 ## 2. Run the program using the following command:
 If you're on python3 use 
 ```
-python2 get_opl_average.py
+python2 get_opl_grade.py
 ```
 or just use the following for python2
 ```
-python get_opl_average.py
+python get_opl_grade.py
 ```
 
 ## 3. When prompted enter your authentication URL for Bottlenose.
